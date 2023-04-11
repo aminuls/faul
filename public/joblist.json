@@ -1,0 +1,28 @@
+
+   [
+    {
+      "id": 1,
+      "image": "https://previews.123rf.com/images/vectorstockcompany/vectorstockcompany1808/vectorstockcompany180816402/108456529-working-vector-icon-isolated-on-transparent-background-working-logo-concept.jpg",
+      "title": "Software Developer",
+      "availability": "500+ Jobs Available"
+    },
+    {
+      "id": 2,
+      "image": "https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180817658/107901564-working-vector-icon-isolated-on-transparent-background-working-logo-concept.jpg",
+      "title": "Data Analyst",
+      "availability": "300 Jobs Available"
+    },
+    {
+       "id": 3,
+      "image": "https://previews.123rf.com/images/vectorstockcompany/vectorstockcompany1808/vectorstockcompany180818336/108635524-studying-vector-icon-isolated-on-transparent-background-studying-logo-concept.jpg",
+      "title": "Marketing Manager",
+      "availability": "1000+ Jobs Available"
+    },
+    {
+      "id": 4,
+      "image": "https://icon-library.com/images/web-development-icon-png/web-development-icon-png-24.jpg",
+      "title": "Graphic Designer",
+      "availability": "120 Jobs Available"
+    }
+  ]
+
